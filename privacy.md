@@ -10,7 +10,7 @@ Outplay plays short videos that people send you (Instagram Reels, TikTok, Facebo
 
 ## What we collect
 
-Nothing. Outplay does not collect, store on a server, share or sell any personal data. It has no analytics, no telemetry, no advertising and no crash reporting.
+Outplay itself collects nothing. It does not collect, store on a server, share or sell any personal data, and it has no analytics, no telemetry, no advertising and no crash reporting. The one thing to know is that the video comes from the platform's own embedded player (see Network traffic), and that player can collect data of its own.
 
 ## What stays on your device
 
@@ -18,7 +18,7 @@ Your settings (for example, whether videos open paused) and a few small counters
 
 ## Network traffic
 
-Outplay's own code makes no network requests. The only traffic is the video platform's own embed page loading, as it would in a browser. That page is run by the platform (Instagram, TikTok, Facebook or YouTube) and is covered by that platform's own privacy policy. Outplay does not log in for you and never sees your account details.
+Outplay's own code makes no network requests. The only traffic is the video platform's own embed page loading, as it would in a browser. That page is run by the platform (Instagram, TikTok, Facebook or YouTube), not by Outplay. Loading it sends the platform your IP address and device details such as browser version, and the platform may also set cookies or collect other data under its own privacy policy. Outplay does not receive, control or see any of that. If you would rather not load a platform's page, don't open its links in Outplay. Outplay does not log in for you and never sees your account details.
 
 ## Links that leave the app
 
