@@ -4,7 +4,7 @@ title: Outplay privacy policy
 
 # Outplay privacy policy
 
-Last updated: 11 October 2026
+Last updated: 12 October 2026
 
 Outplay plays short videos that people send you (Instagram Reels, TikTok, Facebook Reels, YouTube Shorts) with proper controls. It has no account, no feed and no servers of its own.
 
@@ -14,7 +14,7 @@ Outplay itself collects nothing. It does not collect, store on a server, share o
 
 ## What stays on your device
 
-Your settings (for example, whether videos open paused) and a few small counters that decide when to show a single one-time rating or tip suggestion. These are kept in the app's own local storage on your device. They are never sent anywhere, and uninstalling the app removes them.
+Your settings (for example, whether videos play straight away or start with the sound on) and a few small counters that decide when to show a single one-time rating or tip suggestion. These are kept in the app's own local storage on your device. They are never sent anywhere, and uninstalling the app removes them.
 
 ## Network traffic
 
