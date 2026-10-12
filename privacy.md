@@ -18,7 +18,11 @@ Your settings (for example, whether videos open paused) and a few small counters
 
 ## Network traffic
 
-Outplay's own code makes no network requests. The only traffic is the video platform's own embed page loading, as it would in a browser. That page is run by the platform (Instagram, TikTok, Facebook or YouTube), not by Outplay. Loading it sends the platform your IP address and device details such as browser version, and the platform may also set cookies or collect other data under its own privacy policy. Outplay does not receive, control or see any of that. If you would rather not load a platform's page, don't open its links in Outplay. Outplay does not log in for you and never sees your account details.
+Outplay's own code makes no requests of its own, and it has no servers. The only traffic is the video platform's own player loading, as it would in a browser. For Instagram, TikTok and Facebook that is the platform's embed page. For YouTube it is YouTube's player and its player script, loaded into a small page inside Outplay. The player is run by the platform (Instagram, TikTok, Facebook or YouTube), not by Outplay. Loading it sends the platform your IP address and device details such as browser version, and the platform may also set cookies or collect other data under its own privacy policy. Outplay does not receive, control or see any of that. If you would rather not load a platform's page, don't open its links in Outplay. Outplay does not log in for you and never sees your account details.
+
+## YouTube
+
+Outplay uses YouTube API Services (the YouTube IFrame Player API) to play YouTube videos. By playing a YouTube video in Outplay you agree to be bound by the [YouTube Terms of Service](https://www.youtube.com/t/terms). YouTube's player may store or read cookies or similar technology on your device, and may show content or ads served by Google; Outplay does not control this. What it collects is described in the [Google Privacy Policy](https://policies.google.com/privacy). Outplay itself does not access, collect or store any information from YouTube.
 
 ## Links that leave the app
 
