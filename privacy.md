@@ -4,7 +4,7 @@ title: Outplay privacy policy
 
 # Outplay privacy policy
 
-Last updated: RELEASE DATE (set when merged)
+Last updated: 18 October 2026
 
 Outplay plays short videos that people send you (Instagram Reels, TikTok, Facebook Reels, YouTube Shorts) with proper controls. It has no account, no feed and no servers of its own. The Google Play version shows one ad on the end screen, which a one-time purchase removes.
 
