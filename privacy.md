@@ -24,7 +24,7 @@ Outplay's own code makes no requests of its own, and it has no servers. The only
 
 This applies to the Google Play version only. The web extension and any other builds show no ads and have no purchase.
 
-After a video ends, the Google Play version shows one ad on the end screen. The first three videos you finish show none. It is never shown before or during a video.
+After a video ends, the Google Play version shows one ad on the end screen. The first seven videos you finish show none. It is never shown before or during a video.
 
 - **Who serves it.** The ad is served by Google AdMob, using Google's Mobile Ads SDK. To show it, the SDK sends a request to Google when a video starts playing, so the ad is ready at the end. Google may receive your IP address, device and app details, and may use an advertising ID or similar identifier where the ads allow it. What Google collects is described in the [Google Privacy Policy](https://policies.google.com/privacy) and [how Google uses information from sites or apps that use its services](https://policies.google.com/technologies/partner-sites). Outplay does not receive any of it.
 - **Not personalised.** The ads are not personalised. Outside the UK and EEA they are non-personalised ads. In the UK and EEA they are Google's "limited ads", which use no device identifiers. Because of this, Outplay does not ask for consent, and shows no consent form. Outplay sets no interest or location targeting.
