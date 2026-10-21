@@ -4,7 +4,7 @@ title: Outplay privacy policy
 
 # Outplay privacy policy
 
-Last updated: 18 October 2026
+Last updated: 21 October 2026
 
 Outplay plays short videos that people send you (Instagram Reels, TikTok, Facebook Reels, YouTube Shorts) with proper controls. It has no account, no feed and no servers of its own. The Google Play version shows one ad on the end screen, which a one-time purchase removes.
 
@@ -15,6 +15,8 @@ Outplay itself collects nothing. It does not collect, store on a server, share o
 ## What stays on your device
 
 Your settings (for example, whether videos play straight away or start with the sound on), a few small counters (how many videos you have finished and on how many days, which decide when the ad first appears and when to suggest a rating) and, if you buy it, a flag that ads are removed. These are kept in the app's own local storage on your device. They are never sent anywhere, and uninstalling the app removes them.
+
+There is also a hidden diagnostics log, for testing. It is off by default and records nothing unless someone unlocks it in Settings and switches it on. When on, it keeps, for each of the last 200 links you open in Outplay, the time, the link, and whether it played or why it didn't. It stays on your device, in the app's own storage, and is never sent anywhere by Outplay. The only way it leaves is if you choose Share log and pick where to send it. Switching it off or tapping Clear deletes it, and so does uninstalling the app.
 
 ## Network traffic
 
