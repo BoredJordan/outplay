@@ -14,7 +14,7 @@ Outplay itself collects nothing. It does not collect, store on a server, share o
 
 ## What stays on your device
 
-Your settings (for example, whether videos play straight away or start with the sound on), a few small counters (how many videos you have finished and on how many days, which decide when the ad first appears and when to suggest a rating) and the totals behind the Stats page and its milestones: videos finished, time watched and time saved by skipping and speeding up, how many on each platform, slides viewed, days used, and an estimate of scrolling avoided, kept for all time, this month and last month. They are only numbers. None of them says which video, link, author or account it was about and, if you buy it, a flag that ads are removed. These are kept in the app's own local storage on your device. They are never sent anywhere, and uninstalling the app removes them. You can also clear the stats with Reset stats on the Stats page.
+Your settings (for example, whether videos play straight away or start with the sound on), a few small counters (how many videos you have finished and on how many days, which decide when the ad first appears and when to suggest a rating) and, if you buy it, a flag that ads are removed. Also the totals behind the Stats page and its milestones: videos finished, time watched and time saved by skipping and speeding up, how many on each platform, slides viewed, days used, and an estimate of scrolling avoided, kept for all time, this month and last month. They are only numbers. None of them says which video, link, author or account it was about. These are kept in the app's own local storage on your device. They are never sent anywhere, and uninstalling the app removes them. You can also clear the stats with Reset stats on the Stats page.
 
 ## The clipboard
 
@@ -53,7 +53,7 @@ When you open a link to an X post, Outplay loads X's own official embed page (pl
 - **Posts without a video.** Text, photo and GIF posts are not shown in Outplay. They are handed to the X app or your browser, and what happens next is covered by X's policy.
 - **Ads.** The ad shown after an X video is the same one as after any other video (see Ads). Nothing from X, such as the post, its address, its author or its text, is sent with the ad request.
 
-If you would rather not load X's page, don't open X links in Outplay.
+By opening an X post in Outplay you agree to be bound by the [X Terms of Service](https://x.com/en/tos). If you would rather not load X's page, don't open X links in Outplay.
 
 ## Links that leave the app
 
