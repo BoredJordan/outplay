@@ -4,7 +4,7 @@ title: Outplay privacy policy
 
 # Outplay privacy policy
 
-Last updated: 18 November 2026
+Last updated: 23 November 2026
 
 Outplay plays short videos that people send you (Instagram Reels, TikTok, Facebook Reels, YouTube Shorts, X videos) with proper controls. It has no account, no feed and no servers of its own. The Google Play version shows one ad on the end screen, which a one-time purchase removes.
 
@@ -14,7 +14,7 @@ Outplay itself collects nothing. It does not collect, store on a server, share o
 
 ## What stays on your device
 
-Your settings (for example, whether videos play straight away or start with the sound on), a few small counters (how many videos you have finished and on how many days, which decide when the ad first appears and when to suggest a rating) and, if you buy it, a flag that ads are removed. Also the totals behind the Stats page and its milestones: videos finished, time watched and time saved by skipping and speeding up, how many on each platform, slides viewed, days used, and an estimate of scrolling avoided, kept for all time, this month and last month. They are only numbers. None of them says which video, link, author or account it was about. These are kept in the app's own local storage on your device. They are never sent anywhere, and uninstalling the app removes them. You can also clear the stats with Reset stats on the Stats page.
+Your settings (for example, whether videos play straight away or start with the sound on), a few small counters (how many videos you have finished and on how many days, which decide when the ad first appears and when to suggest a rating) and, if you buy it, a flag that ads are removed. Also the totals behind the Stats page and its milestones: videos finished, time watched and time saved by skipping and speeding up, how many on each platform, slides viewed, days used, and an estimate of scrolling avoided, kept for all time, this month and last month. They are only numbers. None of them says which video, link, author or account it was about. Also which platforms' links open in Outplay, and how far you got through link setup, so it can pick up where you left off. These are kept in the app's own local storage on your device. They are never sent anywhere, and uninstalling the app removes them. You can also clear the stats with Reset stats on the Stats page.
 
 ## The clipboard
 
